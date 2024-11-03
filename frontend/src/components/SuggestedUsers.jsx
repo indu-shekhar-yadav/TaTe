@@ -61,7 +61,6 @@ const SuggestedUsers = () => {
 
 export default SuggestedUsers;
 
-// Loading skeletons for suggested users, if u want to copy and paste as shown in the tutorial
 
 // <Flex key={idx} gap={2} alignItems={"center"} p={"1"} borderRadius={"md"}>
 // 							{/* avatar skeleton */}
